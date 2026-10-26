@@ -102,7 +102,7 @@
         <section id="upload-section" class="transition-all duration-500 space-y-6">
             <div class="text-center space-y-3 max-w-2xl mx-auto py-4">
                 <h2 class="cinzel-font text-3xl sm:text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-100 via-gold-400 to-amber-200">
-                    당신의 손바닥에 숨겨진 운명을 읽다
+                   똥강아지야 믿을걸 믿어야지이~~~ 손금은 손금일뿐이란다 ~~~ 너는 내 손안에 있다아~
                 </h2>
                 <p class="text-gray-300 text-sm sm:text-base leading-relaxed">
                    똥강아지야 믿을걸 믿어야지이~~~ 손금은 손금일뿐이란다 ~~~ 너는 내 손안에 있다아~
